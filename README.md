@@ -9,7 +9,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
 
 - 🚀 I use daily:
-  [![Java](https://img.shields.io/badge/Java-000000?logo=JavaScript&logoColor=FFCA28)](https://www.elvismax.tech/)
+  [![Java](https://img.shields.io/badge/Java-000000?logo=Java&logoColor=FFCA28)](https://www.elvismax.tech/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://www.elvismax.tech/)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://www.elvismax.tech/)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://www.elvismax.tech/)
