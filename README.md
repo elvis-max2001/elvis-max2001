@@ -127,3 +127,5 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/elvis-ma
 
 ###  Github 捐献图
 ![ Elvis 的 github 活动图](https://github-readme-activity-graph.cyclic.app/graph?username=elvis-max2001&theme=vue)
+![ Elvis 的 github 活动图](https://github-readme-activity-graph.cyclic.app/graph?username=elvis-max2001&theme=dracula)
+
